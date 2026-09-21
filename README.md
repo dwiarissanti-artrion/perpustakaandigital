@@ -1,2 +1,2 @@
 # perpustakaandigital
-Untuk mencoba membuat perpustakaan digital
+Untuk project mencoba membuat perpustakaan digital

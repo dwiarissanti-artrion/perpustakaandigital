@@ -6,3 +6,6 @@ NIM   : 13040124120013
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. 
+2.
+---
+Powered by GitHub Pages

@@ -16,6 +16,4 @@ Berikut ini adalah Koleksi yang dimiliki perpustakaan:
 10. [Build Your Own First](ebook/Build Your Own First.pdf) – Stuart Fraser dkk (2020)
 11. [Transformasi Perpustakaan melalui Teknologi Informasi](ebook/Transformasi Perpustakaan melalui Teknologi Informasi.pdf) – Intan Yusrina Zairon (2026)
     
----
-
 Powered by GitHub Pages

@@ -14,6 +14,6 @@ Berikut ini adalah Koleksi yang dimiliki perpustakaan:
 8. [Modern PHP Excerpt](ebook/Modern PHP Excerpt.pdf) – Josh Lockhart (2015)
 9. [An Introduction to Cloud Databases](ebook/An Introduction to Cloud Databases.pdf) – Neu A.W dkk (2019)
 10. [Build Your Own First](ebook/Build Your Own First.pdf) – Stuart Fraser dkk (2020)
-11. [Transformasi Perpustakaan melalui Teknologi Informasi](ebook/Transformasi Perpustakaan melalui Teknologi Informasi.pdf) – Intan Yusrina Zairon (2026)
+11. [Transformasi Perpustakaan melalui Teknologi Informasi](ebook/Transformasi%20Perpustakaan%20melalui%20Teknologi%20Informasi.pdf) – Intan Yusrina Zairon (2026)
 ---
 Powered by GitHub Pages

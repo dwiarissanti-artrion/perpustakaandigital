@@ -5,7 +5,7 @@ Berikut ini adalah Koleksi yang dimiliki perpustakaan:
 ## Koleksi
 
 1. [Princess in the Forest](ebook/Princess in the Forest.pdf) – Wiratu Emi (2024)
-2. [Tiup Tiup Diskus](ebook/Tiup Tiup Diskus.pdf) – Ana Faleshein T. A. (2023)
+2. [Tiup Tiup Diksus](ebook/Tiup Tiup Diksus.pdf) – Ana Faleshein (2023)
 3. [Apa Itu](ebook/Apa Itu.pdf) – Laksmi Manohara, Aira Rumi (2022)
 4. [Kue Kimu](ebook/Kue Kimu.pdf) – Lia Herliana (2023)
 5. [Aku sudah Besar](ebook/Aku sudah Besar.pdf) – Futri Wijayanti (2023)
